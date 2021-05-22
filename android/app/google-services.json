@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "774382076895",
+    "project_id": "assistme-60cfd",
+    "storage_bucket": "assistme-60cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774382076895:android:4b871751224c3234ce7a6a",
+        "android_client_info": {
+          "package_name": "com.example.assistme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774382076895-uom2t3d28qkeugrol36aa2kkv50o4lu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assistme",
+            "certificate_hash": "36195799e974f951075a3185dbc8f944797885a6"
+          }
+        },
+        {
+          "client_id": "774382076895-orhg7idabm0k27rh9cm3avakg6nfq4uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQtnqRmK8oqCn0bVqWK1Htu7hM1xPlyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774382076895-orhg7idabm0k27rh9cm3avakg6nfq4uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

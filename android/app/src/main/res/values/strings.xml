@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">assistme</string>
+    <string name="facebook_app_id">738407896834778</string>
+    <string name="fb_login_protocol_scheme">fb738407896834778</string>
+
+
+</resources>
